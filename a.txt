@@ -1,2 +1,4 @@
 first file 
 aaa
+another line
+edit file a 
